@@ -133,8 +133,16 @@ button {
 }
 /*-------------*/
 
-.OrangeClear-color{
-    background: #ffa800;
+.Orange-color-2{
+    color: #ffa800;
+}
+
+.Orange-bg-color{
+    background: #ff8400;
+}
+
+.Yellow-bg-color{
+    background: #fffacf;
 }
 
 .sky-blue{
@@ -157,20 +165,4 @@ button {
 
 .light-green-bg-color {
     background: #E0F8F2;
-}
-
-
-i.notification {
-    position: relative;
-}
-
-i.notification::after {
-    content: '';
-    width: 8px;
-    height: 8px;
-    border-radius: 50%;
-    background: #FF8872;
-    position: absolute;
-    top: 0px;
-    right: 23px;
 }
