@@ -35,6 +35,8 @@ body {
     color:#fff ;
     font-size: 18px;
 }
+
+
 .container-perfil{
     width: 20px;
     height: 20px;
@@ -185,6 +187,10 @@ button {
 
 .white-color-2 {
     color: #E7E5EC;
+}
+
+.black-color{
+    color: black;
 }
 
 
