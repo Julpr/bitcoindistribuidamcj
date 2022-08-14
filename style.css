@@ -30,12 +30,46 @@ body {
     border-radius: 20px;
 }
 
-
 .nav-link{
     color:#fff ;
     font-size: 18px;
+    border: 1px solid #ffff;
+    padding: 2px;
+    margin-right: 10px;
+    margin-top: 5px;
+    border-radius: 4px;
 }
 
+.navbar-toggler{
+    border:0;
+    background: hsl(179, 65%, 72%);
+    color:white;
+    
+}
+
+.navbar-toggler:hover{
+    background:white;
+}
+
+.navbar-default{
+    background:none;
+    border-color: transparent;
+    transition-duration: 1s;
+}
+
+.navbar-default .navbar-brand{
+    color:none;
+}
+
+.navbar-default .navbar-nav li a{
+    color:#fff;
+    font-size: 9pt;
+    font-weight:bold;
+}
+
+.navbar-default .navbar-nav li a:hover {
+    color:white;
+}
 
 .container-perfil{
     width: 20px;
