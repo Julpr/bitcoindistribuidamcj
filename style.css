@@ -91,11 +91,10 @@ body {
 
 
 .container-quienesSomos-text{
-    border: 1px solid black;
     margin-top: 40px;
     width: 400px;
     text-align: justify ;
-    
+    margin-bottom: 50px;
 }
 
 .Button{
