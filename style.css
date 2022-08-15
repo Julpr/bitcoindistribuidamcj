@@ -16,6 +16,61 @@ body {
     }
 }
 
+/*Containers de inicio*/
+.container-inicio{
+    justify-content: center;
+}
+
+.flex-item{
+    border-radius: 20px;
+    padding: 0 30px 0 30px;
+
+}
+
+.containter-values{
+    background-color: #3fc4c1;
+    color: white;
+}
+
+.picture-balance{
+    width: 600px;
+    height: 200px;
+    justify-content: center;
+    border: 1px solid black;
+    overflow: hidden;
+}
+
+.container-inicio-text{
+    align-items: center;
+}
+
+.text{
+    margin: 20px 200px;
+}
+
+.container-inf-quienesSomos{
+    justify-content: center;
+    border: 1px solid gre;
+}
+
+.container-QuienesSomos{
+    justify-content: center;
+    border: 2px solid #3fc4c1;
+    border-radius: 60px;
+}
+
+.logo-Bitcoin-quienesSomos{ 
+    overflow: hidden;
+    justify-content: center;
+}
+
+
+.container-quienesSomos-text{
+    margin-top: 60px;
+    width: 300px;
+}
+
+/*-----------------------------*/
 .container{
     padding: 10px;
     background: white;
@@ -26,7 +81,6 @@ body {
     background: white;
     border-radius: 20px;
 }
-
 
 /*BARRA DE NAVEGACIÓN*/
 .nav-link{
@@ -118,9 +172,8 @@ body {
 }
 
 .about__picture{
-    float: left;
-    width: 20%;
-    margin: 0em 5em 0em 5em;
+    width: 300px;
+    height: 300px;
 }
 
 .settingsPerfil{
@@ -245,13 +298,12 @@ button {
 
 .white-color-2 {
     color: #E7E5EC;
+    background-color: white;
 }
 
 .black-color{
     color: black;
 }
-
-
 
 .light-green-bg-color {
     background: #E0F8F2;
