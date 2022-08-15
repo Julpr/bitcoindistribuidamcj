@@ -69,33 +69,20 @@ body {
 
 }
 
+
 .text{
     margin: 20px 200px;
 }
 
 .container-inf-quienesSomos{
+    border: 1px solid black;
     justify-content: center;
     border: 1px solid gre;
 }
 
-.container-QuienesSomos{
-    justify-content: center;
-    border: 2px solid #3fc4c1;
-    border-radius: 60px;
-}
-
-.logo-Bitcoin-quienesSomos{ 
-    overflow: hidden;
-    justify-content: center;
-}
 
 
-.container-quienesSomos-text{
-    margin-top: 40px;
-    width: 400px;
-    text-align: justify ;
-    margin-bottom: 50px;
-}
+
 
 .Button{
     align-items: center;
@@ -202,10 +189,7 @@ body {
     padding: 10px;
 }
 
-.about__picture{
-    width: 40%;
-    float: center;
-}
+
 
 .settingsPerfil{
     float: right;
