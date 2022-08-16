@@ -281,16 +281,13 @@ button {
     color: #ffa800;
 }
 
+
 .Orange-bg-color{
     background: #ff840085;
 }
 
 .Yellow-bg-color{
     background: #fffacf;
-}
-
-.sky-blue{
-    background: #caedfa;
 }
 
 .green-color{
@@ -307,15 +304,7 @@ button {
     color: #fff;
 }
 
-.white-color-2 {
-    color: #E7E5EC;
-    background-color: white;
-}
-
 .black-color{
     color: black;
 }
 
-.light-green-bg-color {
-    background: #E0F8F2;
-}
