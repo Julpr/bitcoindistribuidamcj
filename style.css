@@ -35,7 +35,7 @@ body {
         flex-wrap:wrap !important;
         justify-content: center !important;
         text-align: center;
-        width: 100%;
+        max-width: 100%;
     }
 }
 
@@ -56,11 +56,11 @@ body {
 }
 
 .picture-balance{
-    width: 600px;
-    height: 200px;
+    text-align: center;
+    justify-items: center;
     justify-content: center;
-    border: 1px solid black;
     overflow: hidden;
+    object-fit: cover;
 }
 
 .container-inicio-text{
@@ -79,10 +79,6 @@ body {
     justify-content: center;
     border: 1px solid gre;
 }
-
-
-
-
 
 .Button{
     align-items: center;
@@ -282,7 +278,7 @@ button {
     color: black;
 }
 .Orange-color-2{
-    color: #ffa800;
+    color: #ffe0a1;
 }
 
 .Orange-bg-color{
