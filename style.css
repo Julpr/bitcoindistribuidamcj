@@ -60,7 +60,6 @@ body {
     justify-items: center;
     justify-content: center;
     overflow: hidden;
-    object-fit: cover;
 }
 
 .container-inicio-text{
@@ -80,7 +79,8 @@ body {
     border: 1px solid gre;
 }
 
-.Button{
+.button{
+    border: none;
     align-items: center;
 }
 
@@ -204,7 +204,7 @@ div.logo {
 
 
 button {
-    border: none;
+    margin: 4px;
     border-radius: 5px;
 }
 
